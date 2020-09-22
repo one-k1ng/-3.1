@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Практика3
+namespace Практика3._1
 {
     class Task1
     {
